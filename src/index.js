@@ -10,7 +10,7 @@ App.defaultProps = {
     {
       name: "Whiskey",
       age: 5,
-      src: whiskey,
+      src: 'whiskey',
       facts: [
         "Whiskey loves eating popcorn.",
         "Whiskey is a terrible guard dog.",
@@ -20,7 +20,7 @@ App.defaultProps = {
     {
       name: "Duke",
       age: 3,
-      src: duke,
+      src:'duke',
       facts: [
         "Duke believes that ball is life.",
         "Duke likes snow.",
@@ -30,7 +30,7 @@ App.defaultProps = {
     {
       name: "Perry",
       age: 4,
-      src: perry,
+      src: 'perry',
       facts: [
         "Perry loves all humans.",
         "Perry demolishes all snacks.",
@@ -40,7 +40,7 @@ App.defaultProps = {
     {
       name: "Tubby",
       age: 4,
-      src: tubby,
+      src: 'tubby',
       facts: [
         "Tubby is really stupid.",
         "Tubby does not like walks.",
